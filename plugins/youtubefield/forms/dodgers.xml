@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <fields name="attribs" >
+        <fieldset name="params" >
+
+            <field name="overall_record"
+                               type="text"
+                               label="2013 Record"
+            />
+			    
+            <field name="home_record"
+                               type="text"
+                               label="Home Record"
+            />
+			    
+            <field name="road_record"
+                               type="text"
+                               label="Road Record"
+            />
+
+        </fieldset>
+    </fields>
+</form>

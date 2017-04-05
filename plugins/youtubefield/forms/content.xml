@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <fields name="attribs" >
+        <fieldset name="params" >
+
+            <field name="youtube_title"  type="text"  label="Youtube Title" description="Youtube Video Title"/>
+            <field name="youtube_link"   type="text"  label="Youtube URL {ID}"
+                description="For ex. www.youtube.com/watch?v=xxxxxxxxxxx then ID is { xxxxxxxxxxx }"  hint="xxxxxxxxxxx" />
+
+        </fieldset>
+    </fields>
+</form>
